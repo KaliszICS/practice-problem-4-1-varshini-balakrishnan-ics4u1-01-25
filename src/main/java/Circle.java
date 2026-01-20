@@ -7,9 +7,9 @@ class Circle {
         return this.radius;
     }
     public double area() {
-        return Math.PI * this.radius * this.radius;
+        return 3.14 * this.radius * this.radius;
     }
     public double circumference() {
-        return 2 * Math.PI * this.radius;
+        return 2 * 3.14 * this.radius;
     }
 }
