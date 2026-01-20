@@ -17,7 +17,7 @@ class Person {
         return this.name;
     }
     public int getAge() {
-        return this.age
+        return this.age;
     }
     public int getHeight() {
         return this.height;
